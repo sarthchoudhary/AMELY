@@ -1,3 +1,5 @@
+<p> This is a clone of the Light Yield Analytic Model repo located at gitlab.com.</p>
+
 <p style = 'color:tomato; text-align: left; font-family: Comic Sans MS;'> 
     Overleaf Document: 
 <a href="https://www.overleaf.com/read/vpkvkgpfqwst">https://www.overleaf.com/read/vpkvkgpfqwst</a>
